@@ -1,0 +1,13 @@
+.nav {
+  height: 2rem;
+  border-bottom: 1px solid gray;
+  display: flex;
+  flex-direction: row;
+  padding: 0 1rem;
+  align-items: center;
+  gap: 1rem;
+}
+.content {
+  background: rgb(221, 221, 221);
+  height: 100%;
+}
